@@ -1,0 +1,8 @@
+pyqt6
+numpy
+matplotlib
+PyMuPDF
+glob
+json
+tifffile
+pathlib
